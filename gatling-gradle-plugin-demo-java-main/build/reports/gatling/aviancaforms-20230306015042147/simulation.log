@@ -1,0 +1,4 @@
+RUN	avianca.AviancaForms	aviancaforms	1678067442147	 	3.9.2
+USER	AviancaForms	START	1678067442947
+REQUEST		Formulario	1678067442946	1678067502953	KO	Request timeout to www.avianca.com/23.7.151.204:443 after 60000 ms
+USER	AviancaForms	END	1678067502964

@@ -1,0 +1,10 @@
+{
+  "simulation": "siigo.regresin",
+  "simulationId": "regresin-20230306003958360",
+  "start": 1678063199231,
+  "description": "Duration 60 seconds",
+  "scenarios": ["regresin"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "avianca.AviancaForms",
+  "simulationId": "aviancaforms-20230306012822544",
+  "start": 1678066103453,
+  "description": "Run test",
+  "scenarios": ["AviancaForms"],
+  "assertions": [
+
+  ]
+}

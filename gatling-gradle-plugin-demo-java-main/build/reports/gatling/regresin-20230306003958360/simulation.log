@@ -1,0 +1,5 @@
+RUN	siigo.regresin	regresin	1678063198360	Duration 60 seconds	3.9.2
+USER	regresin	START	1678063199254
+REQUEST		request_0:GET_https://js.stripe.com/v3/	1678063199231	1678063199288	KO	Check validator resolution crashed: j.l.RuntimeException: Resource siigo/regresin/0000_response.bin not found
+REQUEST		request_38:GET_https://reqres.in/api/users?page=2	1678063259338	1678063259579	KO	Check validator resolution crashed: j.l.RuntimeException: Resource siigo/regresin/0038_response.json not found
+USER	regresin	END	1678063259584

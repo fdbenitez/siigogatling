@@ -1,0 +1,5 @@
+RUN	avianca.AviancaForms	aviancaforms	1678066102544	Run test	3.9.2
+USER	AviancaForms	START	1678066103454
+REQUEST		request_0	1678066103453	1678066163463	KO	Request timeout to www.avianca.com/23.7.151.204:443 after 60000 ms
+REQUEST		request_55	1678066164487	1678066164927	KO	status.find.in([200, 209], 304), found 401
+USER	AviancaForms	END	1678066164940

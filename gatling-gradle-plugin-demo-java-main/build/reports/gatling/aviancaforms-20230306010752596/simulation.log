@@ -1,0 +1,5 @@
+RUN	avianca.AviancaForms	aviancaforms	1678064872596	Second Test	3.9.2
+USER	AviancaForms	START	1678064873377
+REQUEST		request_0	1678064873376	1678064873502	KO	Check validator resolution crashed: j.l.RuntimeException: Resource avianca/aviancaforms/0000_response.css not found
+REQUEST		request_53	1678064874529	1678064875172	KO	Check validator resolution crashed: j.l.RuntimeException: Resource avianca/aviancaforms/0053_response.json not found
+USER	AviancaForms	END	1678064875181
